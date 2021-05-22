@@ -1,0 +1,1 @@
+This program maximizes earning from blackjack game where the deck is known.
